@@ -7,6 +7,30 @@ Hey I am Ghazal and this is my week9 quiz.
 
 - De Stijl Movement and Mondrian’s Influence:
 
-   - **De Stijl**, founded by Piet Mondrian and Theo van Doesburg, focuses on geometric abstraction and grids, using primary colors like red, blue, and yellow. These principles are evident in Mondrian’s "Broadway Boogie Woogie", with a structured grid and vibrant color blocks.
-   - For my project, I will incorporate De Stijl’s geometric grid structure and color palette into a Pacman-style game, where the user can choose between different playgrounds inspired by various De Stijl artworks. The benefit of this approach is that it allows me to create diverse, visually engaging environments using basic shapes, while still maintaining a functional and interactive game.
+   - **De Stijl**, founded by Piet Mondrian and Theo van Doesburg, focuses on *geometric abstraction and grids*, using *primary colors* like red, blue, and yellow. These principles are evident in Mondrian’s "Broadway Boogie Woogie", with a structured grid and vibrant color blocks.
+   - For my project, I will incorporate *De Stijl’s geometric grid structure and color palette* into a Pacman-style game, where the user can choose between different playgrounds inspired by various De Stijl artworks. The benefit of this approach is that it allows me to create diverse, visually engaging environments using basic shapes, while still maintaining a functional and interactive game.
 
+- Technique Inspiration : 
+    - De Style
+    
+- Visual aesthetic:
+   - grid structure
+   - primary colors
+   - geometric patterns
+
+**Inspo**
+For this section, I selected five images inspired by the De Stijl movement to showcase its balance, order, and visual harmony through simplicity. Enjoy!
+
+![Mondrian Art work](readmeImages/0.jpg)
+
+
+![Another Mondrian Art work](readmeImages/Mondrian2.jpeg)
+
+
+![Theo Van Doesburg Art work](readmeImages/atheo-van-doesburg.jpg)
+
+
+![De Style poster](readmeImages/poster.jpg)
+
+
+![3D De Style](readmeImages/3Dfile.jpg)
