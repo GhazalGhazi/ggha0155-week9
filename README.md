@@ -69,7 +69,7 @@ To explore De Stijl visually, I’ve selected five images that demonstrate its b
 
 
 
-#### Related Refrences
+## Related Refrences
 
 1. [Snake game](https://p5js.org/examples/games-snake/)
 2. [Pacman](https://pacmancode.com/)
