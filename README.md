@@ -19,7 +19,7 @@ Hey I am Ghazal and this is my week9 quiz.
    - geometric patterns
 
 **Inspo**
-For this section, I selected five images inspired by the De Stijl movement to showcase its balance, order, and visual harmony through simplicity. Enjoy!
+- For this section, I selected five images inspired by the De Stijl movement to showcase its balance, order, and visual harmony through simplicity. Enjoy!
 
 ![Mondrian Art work](readmeImages/Mondrian.jpg)
 
@@ -44,3 +44,32 @@ For this section, I selected five images inspired by the De Stijl movement to sh
 ![A 3D De Style](readmeImages/3Dfile.jpg)
 
 - An archituctur inspired from De Style
+
+
+# part 2: Coding Technique Exploration
+
+ To implement user input in my Pacman-style game, I will use **p5.js** to capture mouse and keyboard inputs. The player can *click* on grid elements to change their color using mousePressed(), and use *keyboard keys* (like 'C' for color change) to toggle between different De Stijl-inspired color palettes and environments. Additionally, *lerpColor()* will enable smooth color transitions, reflecting Mondrian’s use of primary colors. This technique allows for dynamic interactivity, letting users engage with the grid layout and artwork environment, enhancing the game’s visual experience while staying true to De Stijl’s geometric abstraction.
+
+
+#### screenshots of the codes I may need
+
+![Mouse](readmeImages/Mouse.jpg)
+- Mouse and Keyboard 
+
+
+
+![lerpColour](readmeImages/lerpColour.jpg)
+-lerpcolour
+
+
+
+![3D models](readmeImages/3DModel.jpg)
+- 3D
+
+
+
+#### Links that are related
+
+1. [Snake game](https://p5js.org/examples/games-snake/)
+2. [Pacman](https://pacmancode.com/)
+5. [tranistion](https://stackoverflow.com/questions/58477636/transitioning-from-one-scene-to-the-next-with-p5-js)
