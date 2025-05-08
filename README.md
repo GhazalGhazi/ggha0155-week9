@@ -21,16 +21,26 @@ Hey I am Ghazal and this is my week9 quiz.
 **Inspo**
 For this section, I selected five images inspired by the De Stijl movement to showcase its balance, order, and visual harmony through simplicity. Enjoy!
 
-![Mondrian Art work](readmeImages/0.jpg)
+![Mondrian Art work](readmeImages/Mondrian.jpg)
+
+- Piet Mondarian "Broadway Boogie Woogie"
 
 
 ![Another Mondrian Art work](readmeImages/Mondrian2.jpeg)
 
+- Piet Mondarian "composition no.2"
+
 
 ![Theo Van Doesburg Art work](readmeImages/atheo-van-doesburg.jpg)
+
+- Construction in space. (The distinction between the two-dimensionality of painting and the three-dimensionality of architecture)
 
 
 ![De Style poster](readmeImages/poster.jpg)
 
+- A poster from the Oston University
 
-![3D De Style](readmeImages/3Dfile.jpg)
+
+![A 3D De Style](readmeImages/3Dfile.jpg)
+
+- An archituctur inspired from De Style
