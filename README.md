@@ -1,6 +1,6 @@
 # ggha0155-week9
 
-Hey I am Ghazal and this is my week9 quiz.
+Hey, I am Ghazal, and this is my submission for Week 9.
 
 
 # Part 1: Imaging Technique Inspiration
@@ -18,32 +18,33 @@ Hey I am Ghazal and this is my week9 quiz.
    - primary colors
    - geometric patterns
 
-**Inspo**
-- For this section, I selected five images inspired by the De Stijl movement to showcase its balance, order, and visual harmony through simplicity. Enjoy!
+## Visual References
+
+To explore De Stijl visually, I’ve selected five images that demonstrate its balance, order, and harmony through minimalist design.
 
 ![Mondrian Art work](readmeImages/Mondrian.jpg)
 
-- Piet Mondarian "Broadway Boogie Woogie"
+- **Piet Mondarian "Broadway Boogie Woogie"**
 
 
 ![Another Mondrian Art work](readmeImages/Mondrian2.jpeg)
 
-- Piet Mondarian "composition no.2"
+- **Piet Mondarian "composition no.2"**
 
 
 ![Theo Van Doesburg Art work](readmeImages/atheo-van-doesburg.jpg)
 
-- Construction in space. (The distinction between the two-dimensionality of painting and the three-dimensionality of architecture)
+- **Construction in space. (The distinction between the two-dimensionality of painting and the three-dimensionality of architecture)**
 
 
 ![De Style poster](readmeImages/poster.jpg)
 
-- A poster from the Oston University
+- **A poster from the Oston University**
 
 
 ![A 3D De Style](readmeImages/3Dfile.jpg)
 
-- An archituctur inspired from De Style
+- **An archituctur inspired from De Style**
 
 
 # part 2: Coding Technique Exploration
@@ -54,21 +55,21 @@ Hey I am Ghazal and this is my week9 quiz.
 #### screenshots of the codes I may need
 
 ![Mouse](readmeImages/Mouse.jpg)
-- Mouse and Keyboard 
+- **Mouse and Keyboard**
 
 
 
 ![lerpColour](readmeImages/lerpColour.jpg)
--lerpcolour
+-**lerpcolour**
 
 
 
 ![3D models](readmeImages/3DModel.jpg)
-- 3D
+- **3D**
 
 
 
-#### Links that are related
+#### Related Refrences
 
 1. [Snake game](https://p5js.org/examples/games-snake/)
 2. [Pacman](https://pacmancode.com/)
