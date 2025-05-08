@@ -60,7 +60,7 @@ To explore De Stijl visually, I’ve selected five images that demonstrate its b
 
 
 ![lerpColour](readmeImages/lerpColour.jpg)
--**lerpcolour**
+- **lerpcolour**
 
 
 
